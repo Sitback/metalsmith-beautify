@@ -1,20 +1,20 @@
 {
   "name": "metalsmith-beautify",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A plugin for metalsmith to format html / js.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/boushley/metalsmith-beautify.git"
+    "url": "git://github.com/Sitback/metalsmith-beautify.git"
   },
-  "author": "Aaron Boushley",
+  "author": "Daniel Simington",
+  "company": "Sitback Solutions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boushley/metalsmith-beautify/issues"
+    "url": "https://github.com/Sitback/metalsmith-beautify/issues"
   },
   "dependencies": {
     "debug": "^0.8.1",
-    "js-beautify": "^1.6.0",
-    "lodash": "~2.4.1"
+    "js-beautify": "^1.6.0"
   }
 }
